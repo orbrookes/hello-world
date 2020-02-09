@@ -1,2 +1,4 @@
 # hello-world
-This is me trying to code and use Github for the first time!
+
+Hi everyone, my name is Oliver and i'm trying to learn how to code! 
+Please forgive any stupid questions as this is all completely new to me
